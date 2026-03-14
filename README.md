@@ -125,6 +125,4 @@ Topics covered in the report:
 
 ---
 
-## Author
 
-**Roy** — Final project for the Communication Programming course.
